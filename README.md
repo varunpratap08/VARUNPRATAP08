@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Pratap singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning CSS **Bootstrap**
+- 🌱 I’m currently learning React **React Js**
 
 - 📫 How to reach me **varunpratap1822@gmail.com**
 
