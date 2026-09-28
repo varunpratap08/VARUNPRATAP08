@@ -12,6 +12,7 @@
 
 - 💼 Full Stack Developer at **Volvrit Inc.** (May 2025 – present). 20+ client projects shipped across frontend and backend.
 - ⚙️ Most of my work is on the backend: REST APIs in Node.js/Express.js, JWT auth and RBAC, MongoDB schema design, Redis/BullMQ background jobs, and Socket.IO real-time features.
+- 🎥 Built live streaming and broadcasting features with **Agora** and other third-party streaming APIs.
 - 🤖 I add LLM features to products: API integration, plus the system prompts that control what the model returns.
 - ☁️ I also deploy what I build: AWS EC2, Nginx, PM2, Certbot SSL and GitHub Actions CI/CD.
 - 🌱 Currently learning **Docker, Kubernetes, Terraform** and using AI coding agents in deployment workflows.
@@ -48,5 +49,6 @@
 ### GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varunpratap08&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Contributions%20since%20Jun%202025-1%2C400%2B-2ea44f?style=for-the-badge&logo=github" alt="1,400+ contributions since June 2025"/>
 </p>
+<p align="center"><sub>595 in 2025 · 829 in 2026 (so far), mostly in private client repositories</sub></p>
