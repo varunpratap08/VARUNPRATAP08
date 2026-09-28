@@ -15,7 +15,7 @@
 - 🤖 I add LLM features to products: API integration, plus the system prompts that control what the model returns.
 - ☁️ I also deploy what I build: AWS EC2, Nginx, PM2, Certbot SSL and GitHub Actions CI/CD.
 - 🌱 Currently learning **Docker, Kubernetes, Terraform** and using AI coding agents in deployment workflows.
-- 📫 Reach me at **varunpratap2511@gmail.com**
+- 📫 Reach me at **varunpratap1822@gmail.com**
 
 ### Projects I've built
 
