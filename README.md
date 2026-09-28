@@ -1,19 +1,52 @@
-<h1 align="center">Hi 👋, I'm Varun Pratap singh</h1>
-<h3 align="center">A passionate Front End  developer from India</h3>
+<h1 align="center">Hi, I'm Varun Pratap Singh 👋</h1>
+<h3 align="center">Backend-focused Full Stack Developer · Node.js · TypeScript · React.js · Next.js · MongoDB</h3>
 
-- 🌱 I’m currently learning  **React Js**
-
-- 📫 How to reach me **varunpratap1822@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/varunpratap1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunpratap1822" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun pratap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun pratap" height="30" width="40" /></a>
-<a href="https://instagram.com/varun_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_0804" height="30" width="40" /></a>
-<a href="https://dribbble.com/varunpratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="varunpratap singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varunpratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varunpratap singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunpratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunpratap singh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-pratap-singh-599380206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:varunpratap2511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+- 💼 Full Stack Developer at **Volvrit Inc.** (May 2025 – present). 20+ client projects shipped across frontend and backend.
+- ⚙️ Most of my work is on the backend: REST APIs in Node.js/Express.js, JWT auth and RBAC, MongoDB schema design, Redis/BullMQ background jobs, and Socket.IO real-time features.
+- 🤖 I add LLM features to products: API integration, plus the system prompts that control what the model returns.
+- ☁️ I also deploy what I build: AWS EC2, Nginx, PM2, Certbot SSL and GitHub Actions CI/CD.
+- 🌱 Currently learning **Docker, Kubernetes, Terraform** and using AI coding agents in deployment workflows.
+- 📫 Reach me at **varunpratap2511@gmail.com**
+
+### Projects I've built
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Smibee: ERP for MSMEs** | A complete ERP for small and mid-sized businesses, with role-based access for each team member | Node.js, Express.js, MongoDB, React.js |
+| **AI Resume Builder** | Rewrites resume content through an LLM using role-specific system prompts, with live preview | Node.js, React.js, MongoDB, LLM API |
+| **Website Builder** | Section-based page editor with templates and one-click publishing to custom domains | Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB |
+| **Transport Management System** | Vehicles, drivers, trips and shipment tracking, with fleet reports | Node.js, Express.js, MongoDB, React.js |
+
+<sub>Most of this work lives in private client repositories, which is why the contribution graph is busier than the public repo list.</sub>
+
+### Tech stack
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,java" alt="Backend" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" alt="Frontend" />
+
+**Databases & Caching**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx,githubactions,git,github" alt="Cloud and DevOps" />
+
+**Learning now**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="Learning" />
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=varunpratap08&hide_border=true" alt="GitHub streak" />
+</p>
