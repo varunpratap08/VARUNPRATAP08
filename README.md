@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Varun Pratap Singh 👋</h1>
-<h3 align="center">Backend-focused Full Stack Developer · Node.js · TypeScript · React.js · Next.js · MongoDB</h3>
+<h3 align="center">Full Stack Developer · Backend-focused · Node.js · Express.js · MongoDB · Redis · React.js · Next.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varun-pratap-singh-599380206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,24 +10,35 @@
 
 ### About me
 
-- 💼 Full Stack Developer at **Volvrit Inc.** (May 2025 – present). 20+ client projects shipped across frontend and backend.
-- ⚙️ Most of my work is on the backend: REST APIs in Node.js/Express.js, JWT auth and RBAC, MongoDB schema design, Redis/BullMQ background jobs, and Socket.IO real-time features.
-- 🎥 Built live streaming and broadcasting features with **Agora** and other third-party streaming APIs.
-- 🤖 I add LLM features to products: API integration, plus the system prompts that control what the model returns.
-- ☁️ I also deploy what I build: AWS EC2, Nginx, PM2, Certbot SSL and GitHub Actions CI/CD.
+- 💼 Full Stack Developer at **Volvrit Inc.** (May 2025 – present), working across 20+ client projects.
+- ⚙️ Most of my work is backend: REST API design, MongoDB data modeling, Redis and BullMQ background jobs, Socket.IO real-time systems, and JWT/RBAC security.
+- 💳 Payment flows with Razorpay and RazorpayX: wallets, ledgers, payouts and subscriptions with webhook verification.
+- 🎥 Live streaming and broadcasting features with **Agora** and other third-party streaming APIs.
+- 🤖 LLM features in products: OpenAI API integration, plus the system prompts that control what the model returns.
+- ☁️ I deploy what I build: AWS EC2, AWS S3, Nginx, PM2, Let's Encrypt SSL and GitHub Actions CI/CD.
 - 🌱 Currently learning **Docker, Kubernetes, Terraform** and using AI coding agents in deployment workflows.
 - 📫 Reach me at **varunpratap1822@gmail.com**
 
-### Projects I've built
+### Client work at Volvrit
 
-| Project | What it does | Stack |
+| Project | What I built | Stack |
 |---|---|---|
-| **Smibee: ERP for MSMEs** | A complete ERP for small and mid-sized businesses, with role-based access for each team member | Node.js, Express.js, MongoDB, React.js |
-| **AI Resume Builder** | Rewrites resume content through an LLM using role-specific system prompts, with live preview | Node.js, React.js, MongoDB, LLM API |
-| **Website Builder** | Section-based page editor with templates and one-click publishing to custom domains | Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB |
-| **Transport Management System** | Vehicles, drivers, trips and shipment tracking, with fleet reports | Node.js, Express.js, MongoDB, React.js |
+| **Cafe-Cold** · cold-chain logistics | Modular REST API across 18 business areas and 28 MongoDB collections, a 6-stage shipment lifecycle, live GPS and temperature tracking over Socket.IO, BullMQ notification workers, a Razorpay wallet and ledger with payouts, and a 30+ page React admin dashboard | Node.js, Express.js, MongoDB, Redis, BullMQ, Socket.IO, React, Vite, Tailwind CSS |
+| **Calling QR** · smart identity QR & NFC | QR/NFC scan, verify and activate flow with OTP and PIN lockout, privacy-first masked calling, Redis cooldowns and token blacklist, e-commerce checkout, and a live Socket.IO admin dashboard across 45+ data models and 50+ route modules | React, Node.js, Express.js, MongoDB, Redis, Socket.IO, Razorpay, AWS S3 |
+| **Quiz Game** · main backend contributor | Real-time multiplayer engine for 5 game modes with Redis room-based matchmaking and server-side timers, plus 80+ REST APIs for wallets, contests, leaderboards and payouts | Node.js, Express.js, MongoDB, Socket.IO, Redis, Firebase, Razorpay |
+| **GFG Shooting Academy** | Talent-scoring engine for 8 fitness and shooting tests, a re-runnable data migration with dry-run mode, attendance alerts and server-enforced coach permissions | Next.js, React, TypeScript, Node.js, MongoDB |
 
-<sub>Most of this work lives in private client repositories, which is why the contribution graph is busier than the public repo list.</sub>
+<sub>Client code lives in private repositories, which is why the contribution graph is busier than the public repo list.</sub>
+
+### Personal project
+
+**Website Builder: Multi-Tenant SaaS Platform**
+- Tenant data isolation, RBAC and plan-based feature gating through Razorpay subscriptions.
+- Drag-and-drop editor with undo/redo, optimistic updates, 25+ reusable section components and draft/published versions.
+- Publishing to subdomains, paths or custom domains through Nginx with automated Let's Encrypt SSL.
+- OpenAI-generated content with usage quotas; auth with email OTP, rotating refresh tokens and a Redis token blacklist; APIs tested with Jest and Supertest.
+
+`Next.js` `React` `Zustand` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Redis` `OpenAI API` `AWS S3` `Nginx`
 
 ### Tech stack
 
@@ -35,13 +46,16 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,java" alt="Backend" />
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui,html,css" alt="Frontend" />
 
 **Databases & Caching**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
 
 **Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=aws,linux,nginx,githubactions,git,github" alt="Cloud and DevOps" />
+
+**Testing & Services**<br/>
+<img src="https://skillicons.dev/icons?i=jest,firebase" alt="Testing and services" />
 
 **Learning now**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="Learning" />
